@@ -1,0 +1,9 @@
+# Site settings
+title: "bwhitten"
+bye_message: "END"
+baseurl: "/"
+url: "https://bwhitten.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
